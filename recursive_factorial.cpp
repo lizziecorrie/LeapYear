@@ -8,9 +8,9 @@ int factorial(int n);
 int main()
 {
     
-    cout<< factorial(3) << "\n";
+    cout << factorial(3) << "\n";
     
-    cout<< factorial(11) << "\n";
+    cout << factorial(11) << "\n";
 
     return 0;
     
