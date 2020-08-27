@@ -40,7 +40,7 @@ int substring_position(string word, string phrase) {
 
 		} else if (current_position == -1 || current_position == phrase.length()) {
 		    
-		  return -1;
+		  	return -1;
 		    
 		} else {
 
